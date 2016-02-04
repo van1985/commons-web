@@ -1,0 +1,14 @@
+{
+    "espanol": {
+        "Contáctenos": "contacto",
+        "Cajeros": "cajeros",
+        "Búsqueda": "busqueda",
+        "Área Clientes": "login"
+    },
+    "english": {
+        "Contact": "contacto",
+        "Cash": "cajeros",
+        "Search": "busqueda",
+        "Clients": "login"
+    }
+}
